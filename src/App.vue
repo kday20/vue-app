@@ -74,7 +74,7 @@ export default {
         })
         this.employees = this.employees.filter(employee => employee.id !== id)
       } catch (error) {
-        console.error(error)
+        console.error(error) 
       }
     },
   },
