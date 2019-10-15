@@ -48,7 +48,7 @@ export default {
                 email: '',
             },
         }
-    },
+    }, 
 
     computed: {
         invalidName(){
